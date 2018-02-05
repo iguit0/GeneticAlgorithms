@@ -9,3 +9,4 @@ So for a string with a length of 5 the best solution would be, “11111”.
 ## To-Do list :scroll::pencil2:
 - [x] "All Ones" GA
 - [ ] "Hello World" GA - String Evolve
+- [ ] Single machine scheduling with sequence dependent setup times
