@@ -31,5 +31,4 @@ Following is the Algorithm:
 ## To-Do list :scroll::pencil2:
 - [x] "All Ones" GA
 - [x] "Hello World" GA - String Evolve
-- [x] Greedy - Job Sequencing
 - [ ] Single machine scheduling with sequence dependent setup times
