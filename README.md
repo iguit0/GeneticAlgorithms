@@ -9,6 +9,3 @@ So for a string with a length of 5 the best solution would be, “11111”.
 
 ## "Hello World" GA String Evolve :capital_abcd:
 Evolving a target string from a population of random strings.
-
-## Single machine scheduling with sequence dependent setup times :factory:
-In progress...
